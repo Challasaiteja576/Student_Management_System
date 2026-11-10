@@ -24,7 +24,7 @@ The Student Management System is a menu-driven Python application developed usin
 ## Project Structure
 
 ```text
-Student-Management-System/
+Student_Management_System/
 │
 ├── student_management.py
 ├── student.txt
